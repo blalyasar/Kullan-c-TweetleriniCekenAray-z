@@ -1,5 +1,6 @@
 # Kullanici Tweetlerini Ceken Arayuz
 Python-Pyqt5
+https://medium.com/@bilalyasar07/python-ile-twitterda-kullanıcı-tweetlerini-çeken-arayüz-programı-4b2cf80a3cf6
 
 tweetter scraper dosyası: kennethreitz tarafından yazılıp projeye eklenmiştir.
 
